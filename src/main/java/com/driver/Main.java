@@ -7,7 +7,6 @@ public class Main {
          // obj.name = "Mohd Talib";
         // System.out.println(obj.name);
         obj.setName("Mohd Talib");
-        System.out.println(obj.getName());
-     
+        System.out.println(obj.getName());    
     }
 }
